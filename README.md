@@ -1,4 +1,4 @@
-Currently looking for new opportunities! (contracts only)
+Currently looking for new opportunities! (contracts only)  
 :envelope: agata.krajewska@mail.com :house_with_garden: London
 
 :sparkles:
