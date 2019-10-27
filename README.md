@@ -25,21 +25,22 @@ Currently looking for new opportunities! (contracts only)
 
 This is a list of technologies I've used professionally, in no particular order. I haven't ranked them, because I know from experience that I can adapt quickly to any environments.
 
-`Javascript`
-`Typescript`
-`AngularJs`
-`Angular2-8`
-`Karma, Jest, Jasmine`
-`Protractor`
-`HTML`
-`CSS`
-`C#, ASP.NET Core`
-`GCP, PubSub`
-`Kubernetes`
-`Docker`
-`MongoDB,MongoDB C# Driver`
-`IndexDb`
-`SQL`
+`Javascript`  
+`Typescript`  
+`AngularJs`  
+`Angular2-8`  
+`Karma, Jest, Jasmine`  
+`Protractor`  
+`HTML`  
+`CSS`  
+`C#, ASP.NET Core`  
+`TDD`  
+`GCP, PubSub`  
+`Kubernetes`  
+`Docker`  
+`MongoDB,MongoDB C# Driver`  
+`IndexDb`  
+`SQL`  
 `Git`  
 
 
