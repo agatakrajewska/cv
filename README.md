@@ -59,43 +59,43 @@ The challenge was building a product which was fully accessible, supported inter
 ## <a name="work">Experience</a>
 
 **PAYMENTSENSE** (July 2015 to Present)   
-*Full-stack Software Developer* (June 2017 - present)
+*Full-stack Software Developer* (June 2017 - present)  
 Stack:
 ASP.NET CORE, C#, Typescript, Angular2-8, MongoDB, Kubernetes, Docker, Microservices architecture, GCP, PubSub messaging
 
-*Software development team lead*  (June 2016 - June 2017)
+*Software development team lead*  (June 2016 - June 2017)  
 Stack:
 ASP.NET CORE, C#, Javascript, Angular2-8, SQL, TeamCity, Octopus 
 
-*Front-end developer* (June 2015 - June 2016)
+*Front-end developer* (June 2015 - June 2016)  
 Stack:
 HTML5, CSS3, Bootstrap, Responsive design, LESS, Javascript, AngularJS, ASP.NET  
 <br />
 
 
-**CAPITA** (Oct 2014 - Dec 2014)
-*UI Developer*	
+**CAPITA** (Oct 2014 - Dec 2014)  
+*UI Developer*  
 Stack:
 HTML5, CSS3, Bootstrap, Responsive design, LESS, SMACSS, Javascript, jQuery, ASP.NET MVC 4  
 <br />
 
 
-**EUROOFFICE** (Jul 2012 -	Sep 2014)
-*Front-end developer*
+**EUROOFFICE** (Jul 2012 -	Sep 2014)  
+*Front-end developer*  
 Stack:
 HTML5, CSS3, Bootstrap, Responsive design, LESS, Javascript, jQuery, ASP.NET MVC 4, NHibernate, Castle Windsor, MSSQL 2012  
 <br />
 
 
-**MICROSOFT** (Sep 2009 - March 2012)
-*Site Management Engineer/Lead*
+**MICROSOFT** (Sep 2009 - March 2012)  
+*Site Management Engineer/Lead*  
 Stack:
 ASP.NET MVC 2, HTML, CSS, Javascript, MSSQL 2008 various in-house scripting tools/languages  
 <br />
 
 
-**CIAO GMBH** (June 2008 - Sep 2009)
-*Web Data Extraction Specialist*
+**CIAO GMBH** (June 2008 - Sep 2009)  
+*Web Data Extraction Specialist*  
 Stack:
 Custom web scraping tool, XML, HTML, MSSQL 2008
 
